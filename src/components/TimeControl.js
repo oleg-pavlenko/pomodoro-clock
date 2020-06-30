@@ -51,9 +51,9 @@ function TimeControl(props) {
   return (
     <div className="time-control">
       <div id={`${controlType}-label`} className={`${controlType}-label`}>
-        {controlType}
-        {' '}
-        Length
+        {
+          controlType === 'session' ? 'Session Length' : 'Break Length'
+        }
       </div>
       <button
         type="button"

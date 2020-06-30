@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check this project on Netlify:
+
+[Pomodoro Clock](https://blissful-pike-c2b6ba.netlify.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
